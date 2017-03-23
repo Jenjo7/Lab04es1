@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lab04es1</string>
+    <string name="hint_text">Testo</string>
 </resources>
