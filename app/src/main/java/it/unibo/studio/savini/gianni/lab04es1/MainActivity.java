@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onRequestPermisionResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResult) {
         if(requestCode == REQUEST_STORAGE_PERMISSION) {
+
         }
     }
 
